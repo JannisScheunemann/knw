@@ -6,11 +6,6 @@
   <name>mvn-m154-crm-persistence</name>
   <description>Mavenprojekt für Persistence</description>
   	<dependencies>
-  	<dependency>
-		  <groupId>ch.scheunemann.jannis.uek154</groupId>
-  			<artifactId>mvn-m154-crm-business</artifactId>
-  			<version>0.0.1-SNAPSHOT</version>
-  	</dependency>
 	<dependency>
 			<groupId>junit</groupId>
 			<artifactId>junit</artifactId>

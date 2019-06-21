@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="1" failures="0" name="ch.ilv.crm.test.business.product.ProductFactoryTest" time="0.103" errors="0" skipped="0">
+<testsuite tests="1" failures="0" name="ch.ilv.crm.test.business.product.ProductFactoryTest" time="0.072" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
     <property name="java.vm.version" value="11.0.2+9"/>
@@ -26,7 +26,7 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="user.variant" value=""/>
     <property name="os.name" value="Windows 10"/>
-    <property name="classworlds.conf" value="C:\Development\Eclipse_workspace\workspace_m154_knw\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf13452474196567513677.tmp"/>
+    <property name="classworlds.conf" value="C:\Development\Eclipse_workspace\workspace_m154_knw\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf5200609207333955430.tmp"/>
     <property name="sun.jnu.encoding" value="Cp1252"/>
     <property name="java.library.path" value="C:\DevTools\JDK.11.0.2\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:/DevTools/JDK.11.0.2/bin/server;C:/DevTools/JDK.11.0.2/bin;C:\ProgramData\DockerDesktop\version-bin;C:\Program Files\Docker\Docker\Resources\bin;C:\DevTools\JDK.11.0.2\bin;C:\DevTools\Apache-Maven-3.6.1\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\DevTools\Git\cmd;C:\Users\PC109\AppData\Local\Microsoft\WindowsApps;C:\DevTools\Microsoft VS Code\bin;C:\Users\PC109\AppData\Local\GitHubDesktop\bin;C:\DevTools\eclipse-jee-2019-03-R-win32-x86_64;;."/>
     <property name="jdk.debug" value="release"/>
@@ -61,5 +61,5 @@
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase classname="ch.ilv.crm.test.business.product.ProductFactoryTest" name="testInsertAndSelectProduct" time="0.103"/>
+  <testcase classname="ch.ilv.crm.test.business.product.ProductFactoryTest" name="testInsertAndSelectProduct" time="0.072"/>
 </testsuite>
